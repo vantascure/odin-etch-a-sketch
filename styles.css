@@ -19,3 +19,14 @@ h1 {
     margin: 2rem 0;
     font-size: 4rem;
 }
+
+#grid-container {
+    display: grid;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.cell {
+    border: 1px black solid;
+}
